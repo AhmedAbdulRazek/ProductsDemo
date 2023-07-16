@@ -1,0 +1,14 @@
+G:\Company Tasks\ProductTask\Products.DAL\bin\Debug\net7.0\Products.DAL.deps.json
+G:\Company Tasks\ProductTask\Products.DAL\bin\Debug\net7.0\Products.DAL.runtimeconfig.json
+G:\Company Tasks\ProductTask\Products.DAL\bin\Debug\net7.0\Products.DAL.dll
+G:\Company Tasks\ProductTask\Products.DAL\bin\Debug\net7.0\Products.DAL.pdb
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\Products.DAL.csproj.AssemblyReference.cache
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\Products.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\Products.DAL.AssemblyInfoInputs.cache
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\Products.DAL.AssemblyInfo.cs
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\Products.DAL.csproj.CoreCompileInputs.cache
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\Products.DAL.dll
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\refint\Products.DAL.dll
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\Products.DAL.pdb
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\Products.DAL.genruntimeconfig.cache
+G:\Company Tasks\ProductTask\Products.DAL\obj\Debug\net7.0\ref\Products.DAL.dll

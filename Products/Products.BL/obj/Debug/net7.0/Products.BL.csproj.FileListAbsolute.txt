@@ -1,0 +1,15 @@
+G:\Company Tasks\ProductTask\Products.BL\bin\Debug\net7.0\Products.BL.deps.json
+G:\Company Tasks\ProductTask\Products.BL\bin\Debug\net7.0\Products.BL.dll
+G:\Company Tasks\ProductTask\Products.BL\bin\Debug\net7.0\Products.BL.pdb
+G:\Company Tasks\ProductTask\Products.BL\bin\Debug\net7.0\Products.DAL.dll
+G:\Company Tasks\ProductTask\Products.BL\bin\Debug\net7.0\Products.DAL.pdb
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\Products.BL.csproj.AssemblyReference.cache
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\Products.BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\Products.BL.AssemblyInfoInputs.cache
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\Products.BL.AssemblyInfo.cs
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\Products.BL.csproj.CoreCompileInputs.cache
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\Products.BL.csproj.CopyComplete
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\Products.BL.dll
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\refint\Products.BL.dll
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\Products.BL.pdb
+G:\Company Tasks\ProductTask\Products.BL\obj\Debug\net7.0\ref\Products.BL.dll
